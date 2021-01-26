@@ -4,3 +4,5 @@ A few of my favorite things:
 Food
 Sleep
 Spending quality time with loved ones
+
+Also Data Science
