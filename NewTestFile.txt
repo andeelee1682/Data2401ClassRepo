@@ -7,4 +7,5 @@ sleep
 breakfast:
 bacon
 fried eggs
-spinach
+
+I actually did not have spinach
